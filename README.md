@@ -13,7 +13,7 @@ if you run this on a local server the app can be accessed on http://localhost:80
 and the populated data will be shown there.
 
 Custom management command for populating the database with dummy data
-#### python manage.py populate <data_points> <activity_period_number> <year>
+#### python manage.py populate <data_points> <activity_period_number> <timestamps_after_year>
   eg: python manage.py populate 2 3 2020
 data_points is the number of users 
 activity_period_number is the number of activity periods for each user
