@@ -1,3 +1,1 @@
-# testapp
-django app for assignment 
-
+# django_app
